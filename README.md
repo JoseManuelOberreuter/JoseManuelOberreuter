@@ -1,7 +1,6 @@
 <h1 >
-  Computer Engineer | Full Stack Developer
+Full Stack Developer
 </h1>
-
 
 ## 💻 About Me
 
